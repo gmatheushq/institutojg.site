@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header img {
+    width: 150px;
+}
+
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.hidden {
+    display: none;
+}
+
+.service {
+    margin: 10px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    cursor: pointer;
+}
+
+.service:hover {
+    background-color: #ddd;
+}
